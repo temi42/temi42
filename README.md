@@ -3,9 +3,9 @@
 
 welcome to my github :)
 
-i’m a data & systems-focused computer science student who enjoys using data, algorithms, and structured thinking to understand problems and build practical solutions with a background in both computer science and psychology, i’m especially interested in how systems and data can be used to improve decision-making, accessibility, and the way people interact with technology.
+I’m a data & systems-focused computer science student who enjoys using data, algorithms, and structured thinking to understand problems and build practical solutions with a background in both computer science and psychology, i’m especially interested in how systems and data can be used to improve decision-making, accessibility, and the way people interact with technology.
 
-i like working on projects that combine data analysis, systems thinking, and real-world impact — turning information into insights and ideas into usable solutions.
+I like working on projects that combine data analysis, systems thinking, and real-world impact — turning information into insights and ideas into usable solutions.
 
 ---
 
