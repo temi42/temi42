@@ -10,7 +10,7 @@ i like working on projects that combine data analysis, systems thinking, and rea
 ---
 
 ## Tech i work with
-- **languages:** Java, Python, SQL, HTML  
+- **languages:** Java, JavaScript, Python, SQL, HTML, C/C++
 - **data & tools:** Pandas, data analysis & visualization  
 - **core concepts:** data structures & algorithms, problem solving, systems thinking  
 - **other:** Git, GitHub
