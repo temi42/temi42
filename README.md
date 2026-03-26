@@ -1,7 +1,7 @@
 ## 👩🏽‍💻 hey, i’m Temidayo 👋  
 **Computer Science Major | Psychology Minor**
 
-welcome to my github :)
+Welcome to my github :)
 
 I’m a data & systems-focused computer science student who enjoys using data, algorithms, and structured thinking to understand problems and build practical solutions with a background in both computer science and psychology, i’m especially interested in how systems and data can be used to improve decision-making, accessibility, and the way people interact with technology.
 
