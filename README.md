@@ -17,7 +17,7 @@ i like working on projects that combine data analysis, systems thinking, and rea
 
 ---
 
-## What i’m about
+## Why you should hire me:
 - fast learner & highly adaptable  
 - enjoy wearing multiple hats and exploring different roles  
 - strong analytical and problem-solving mindset  
@@ -25,12 +25,12 @@ i like working on projects that combine data analysis, systems thinking, and rea
 
 ---
 
-## What i’m working on
-currently focused on building more **human-centered, data-driven projects** — using computing to better understand how people interact with systems, environments, and decisions.
+##🌱What i’m working on
+currently focused on building more human-centered, data-driven projects — using computing to better understand how people interact with systems, environments, and decisions.
 
 ---
 
-## What i’m looking for
+##🤝What i’m looking for
 i’m looking for opportunities where i can:
 - grow as a data or systems analyst  
 - work with data to support real-world decision-making  
@@ -40,7 +40,7 @@ i’m looking for opportunities where i can:
 ---
 
 ## 📫 let’s connect
-- LinkedIn: *[*](https://www.linkedin.com/in/temidayo-aiyeonegun-828b20377/)
+- LinkedIn: *(https://www.linkedin.com/in/temidayo-aiyeonegun-828b20377/)*
 - Email: *todaiyeongu@mun.ca*
 
 ---
