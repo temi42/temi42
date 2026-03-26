@@ -26,7 +26,7 @@ i like working on projects that combine data analysis, systems thinking, and rea
 ---
 
 ## What i’m working on
-currently focused on building more human-centered, data-driven projects — using computing to better understand how people interact with systems, environments, and decisions.
+Currently focused on building more human-centered, data-driven projects — using computing to better understand how people interact with systems, environments, and decisions.
 
 ---
 
