@@ -45,4 +45,4 @@ i’m looking for opportunities where i can:
 
 ---
 
-thanks for stopping by 🙌
+thanks for stopping by! 🙌
